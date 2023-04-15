@@ -108,6 +108,8 @@ alias ys="yarn start"
 
 alias yd="yarn dev"
 
+alias yd="yarn test"
+
 alias zrc="vim ~/.zshrc"
 
 alias sn="shutdown now"
