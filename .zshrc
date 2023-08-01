@@ -8,7 +8,7 @@ export ZSH="/Users/mugiwara/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="cloud"
+ZSH_THEME="apple"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -113,6 +113,10 @@ alias yt="yarn test"
 alias zrc="vim ~/.zshrc"
 
 alias sn="shutdown now"
+
+alias ssh-wcg="ssh -i ~/.ssh/sa-wcg/wcg_id_rsa"
+
+alias ssh="ssh -i ~/.ssh/SaratAngajalaoffl/id_rsa"
 
 # ENVIRONMENT
 
